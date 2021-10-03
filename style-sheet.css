@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #2E2E2E;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+}
+
+h1{
+    padding-top: 5vh;
+    font-size: 100px;
+    text-shadow: 1px 1px 10px black;
+    margin: 0;
+}
+p{
+    padding-top: 2vh;
+    padding-bottom: 5vh;
+    text-shadow: 1px 1px 10px black;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.download-button{
+    align-self: center;
+    width: auto;
+    background-color: grey;
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-style: solid;
+    border-color: #1C1C1C;
+    border-width: 1px;
+    text-shadow: 1px 1px 10px black;
+    box-shadow: 1px 1px 10px black;
+}
